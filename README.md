@@ -1,2 +1,2 @@
 - 🔭 I’m currently working on AI PlatForm, Unity
-- 🌱 I’m currently learning ML, DL, Cs, Py
+- 🌱 I’m currently learning ML, DL
