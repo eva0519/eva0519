@@ -1,4 +1,4 @@
-### :sparkles: If you're curious, let's learn
+### :sparkles: curious, let's learn
 - 🔭 I’m currently working on AI PlatForm, Unity
 - 🌱 I’m currently learning ML, DL
 - 👀 I’m currently interested in java, Python, C#, C++
