@@ -3,7 +3,7 @@
 ### :sparkles: Curious, let's learn
 - 🔭 I’m currently working on AI PlatForm, Unity, AR, VR
 - 🌱 I’m currently learning ML, DL
-- 👀 I’m currently interested in java, Python, C#, C++
+- 👀 I’m currently interested in Java, Python, C#, C++
 - 🐳 My MBTI is INTP
 - 📫 How to reach me kimyuntae19@gmail.com
 - 🤙 This is my [Blog](https://brajjam.tistory.com)
