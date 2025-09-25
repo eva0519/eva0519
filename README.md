@@ -1,7 +1,7 @@
 ---
 
 ### :sparkles: Curious, let's learn
-- 🔭 I’m currently working on AI PlatForm, Unity, AR, VR
+- 🔭 I’m currently working on AI PlatForm, Unity3D, AR, VR
 - 🌱 I’m currently learning ML, DL
 - 👀 I’m currently interested in Java, Python, C#, C++
 - 🐳 My MBTI is INTP
