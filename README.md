@@ -1,8 +1,8 @@
 ---
 
 ### :sparkles: Curious, let's learn
-- 🔭 I’m currently working on AI PlatForm, Unity3D, AR, VR
-- 🌱 I’m currently learning ML, DL
+- 🔭 I’m currently working on DevOps, Web
+- 🌱 I’m currently learning DevOps, DB
 - 👀 I’m currently interested in Java, Python, C#, C++
 - 🐳 My MBTI is INTP
 - 📫 How to reach me kimyuntae19@gmail.com
